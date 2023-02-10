@@ -13,7 +13,7 @@
   "dependencies": {
     "async": "^3.2.4",
     "debug": "^4.3.4",
-    "dotty": "0.1.0",
+    "dotty": "^0.1.2",
     "eventstore": "https://github.com/eCollect/node-eventstore.git#deps/bump-latest",
     "jsondate": "0.0.1",
     "lodash": "^4.17.21",
