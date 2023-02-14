@@ -2,8 +2,9 @@ var expect = require('expect.js'),
   assert = require('assert'),
   api = require('../../index'),
   async = require('async'),
-  _ = require('lodash'),
-  uuid = require('uuid').v4;
+  _ = require('lodash');
+
+const { v4: uuid } = require('uuid');
 
 describe('migration of domain', function () {
 

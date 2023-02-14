@@ -1,6 +1,7 @@
 var expect = require('expect.js'),
-  uuid = require('uuid').v4,
   api = require('../../index');
+
+const { v4: uuid } = require('uuid');
 
 describe('integration', function () {
 
