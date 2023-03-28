@@ -2,7 +2,7 @@
 
 [![travis](https://img.shields.io/travis/adrai/node-cqrs-domain.svg)](https://travis-ci.org/adrai/node-cqrs-domain) [![npm](https://img.shields.io/npm/v/cqrs-domain.svg)](https://npmjs.org/package/cqrs-domain)
 
-This is a fork of `thenativeweb/node-eventstore` since the latter was deprecated.
+This is a fork of `thenativeweb/node-cqrs-domain` since the latter was deprecated.
 It can be very useful as domain component if you work with (d)ddd, cqrs, eventdenormalizer, host, etc.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->

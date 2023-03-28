@@ -1,7 +1,7 @@
 {
   "author": "adrai",
   "name": "cqrs-domain",
-  "version": "2.14.79",
+  "version": "2.15.0",
   "private": false,
   "main": "index.js",
   "engines": {
@@ -14,7 +14,7 @@
     "async": "^3.2.4",
     "debug": "^4.3.4",
     "dotty": "^0.1.2",
-    "eventstore": "https://github.com/eCollect/node-eventstore.git#deps/bump-latest",
+    "eventstore": "https://github.com/eCollect/node-eventstore.git",
     "jsondate": "0.0.1",
     "lodash": "^4.17.21",
     "parent-require": "1.0.0",
@@ -42,13 +42,13 @@
     "eventdenormalizer",
     "domain"
   ],
-  "homepage": "https://github.com/adrai/node-cqrs-domain",
+  "homepage": "https://github.com/eCollect/node-cqrs-domain",
   "repository": {
     "type": "git",
-    "url": "git@github.com:adrai/node-cqrs-domain.git"
+    "url": "git@github.com:eCollect/node-cqrs-domain.git"
   },
   "bugs": {
-    "url": "https://github.com/adrai/node-cqrs-domain/issues"
+    "url": "https://github.com/eCollect/node-cqrs-domain/issues"
   },
   "licenses": [
     {
